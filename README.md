@@ -1,1 +1,1 @@
-<h1 align="center">Abdumajidov O'tkirbek</h1>
+<h1 align="center">Abdulaziz Raimjonovk</h1>
