@@ -1,1 +1,1 @@
-<h1 align="center">Abdulaziz Raimjonovk</h1>
+<h1 align="center">Abdulaziz Raimjonov</h1>
