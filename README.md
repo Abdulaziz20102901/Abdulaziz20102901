@@ -13,3 +13,10 @@
   <img src="https://streak-stats.demolab.com?user=Abdulaziz20102901&cache_seconds=0" />
 </picture>
 </p>
+
+## 🏆 My GitHub Trophies
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=Abdulaziz20102901&theme=dracula"/>
+</div>
+
