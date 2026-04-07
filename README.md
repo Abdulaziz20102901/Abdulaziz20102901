@@ -20,3 +20,10 @@
 <img src="https://github-trophies.vercel.app/?username=Abdulaziz20102901&theme=dracula"/>
 </div>
 <img src="abdulaziz_img.png"/>
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,,html,css,tailwind,sass,git,github" />
+</p>
+
