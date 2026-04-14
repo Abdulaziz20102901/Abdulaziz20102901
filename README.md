@@ -27,3 +27,7 @@
   <img src="https://skillicons.dev/icons?i=js,,html,css,tailwind,sass,git,github" />
 </p>
 
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Abdumajidov2005/Abdumajidov2005/gh-pages/snake.svg" />
+
