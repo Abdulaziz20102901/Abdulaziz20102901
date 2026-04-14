@@ -19,7 +19,7 @@ jobs:
       # Snake SVG generatsiya qilish
       - uses: Platane/snk@v3
         with:
-          github_user_name: Abdumajidov2005
+          github_user_name: Abdulaziz20102901
           outputs: dist/snake.svg
 
       # Natijani 'gh-pages' branch-ga joylash
